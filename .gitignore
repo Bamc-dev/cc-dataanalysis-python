@@ -31,7 +31,6 @@ plots/
 *.jpeg
 *.gif
 *.svg
-*.pdf
 
 # --- IDE / éditeurs ---
 .idea/
